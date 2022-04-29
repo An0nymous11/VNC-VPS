@@ -17,6 +17,7 @@ RUN set -ex; \
 	vlc \
 	qbittorrent \
         bash \
+	handbrake \
         net-tools \
         novnc \
         xfce4 \
@@ -33,7 +34,6 @@ RUN set -ex; \
         ssh \
 	ffmpeg \
 	chromium-browser \
-	firefox \
         terminator \
         htop \
         gnupg2 \
