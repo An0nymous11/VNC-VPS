@@ -17,7 +17,6 @@ RUN set -ex; \
 	vlc \
 	qbittorrent \
         bash \
-	handbrake \
         net-tools \
         novnc \
         xfce4 \
